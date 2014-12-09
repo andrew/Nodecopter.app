@@ -1,0 +1,25 @@
+{
+  "name": "webflight-onscreen-keyboard",
+  "version": "1.0.0",
+  "description": "onscreen keyboard plugin for ardrone-webflight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew/webflight-onscreen-keyboard.git"
+  },
+  "keywords": [
+    "nodecopter",
+    "webflight",
+    "keyboard",
+    "drone"
+  ],
+  "author": "Andrew Nesbitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew/webflight-onscreen-keyboard/issues"
+  },
+  "homepage": "https://github.com/andrew/webflight-onscreen-keyboard"
+}

@@ -1,0 +1,54 @@
+#buttons{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  width: 260px;
+  background: #888;
+}
+
+.button{
+  font-size:11px;
+  width:130px;
+  float:left;
+  outline:1px solid #aaa;
+  background-color: #ddd;
+  font-family:helvetica;
+  text-align:center;
+  font-weight:bold;
+  line-height:50px;
+  cursor:pointer;
+}
+
+.button:hover{
+  background:#eee;
+}
+
+#glasspane{
+  right: 260px;
+}
+
+#stop, #emergency{
+  width:260px;
+}
+
+#takeoff{
+  background:green;
+}
+
+#land{
+  background:yellow;
+}
+
+#emergency{
+  background:red;
+}
+
+#emergency:hover, #takeoff:hover, #land:hover{
+  color:#fff;
+}
+
+.button.active{
+  background: blue;
+  color:#fff;
+}
