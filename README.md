@@ -5,7 +5,7 @@ This is the [ardrone-webflight](http://eschnou.github.io/ardrone-webflight/) mod
 ## OS X Install Instructions ##
 
 1. [Download the latest version](https://github.com/andrew/Nodecopter.app/releases) from the releases page.
-2. Find the zip file you just downloaded[^1] and move it to your Applications[^2] folder like this:
+2. Find the zip file you just downloaded<sup>1</sup> and move it to your Applications<sup>2</sup> folder like this:
 
 ![nodecopter-install](http://i.imgur.com/cmRbE8f.gif?1)
 
@@ -17,7 +17,7 @@ This is the [ardrone-webflight](http://eschnou.github.io/ardrone-webflight/) mod
 
 ## Usage ##
 
-__AFTER__ your Mac has connected to the drones Wi-Fi, navigate to your Applications[^2] folder and open the NodeCopter application.  You'll see that the application is divided into two parts, on the left is the video feed coming from the drone and on the right are all of the controls you'll need to fly your drone.
+__AFTER__ your Mac has connected to the drones Wi-Fi, navigate to your Applications<sup>2</sup> folder and open the NodeCopter application.  You'll see that the application is divided into two parts, on the left is the video feed coming from the drone and on the right are all of the controls you'll need to fly your drone.
 
 ![NodeCopter-UI](images/NodeCopter-UI.png)
 
@@ -48,5 +48,6 @@ This means that you can use a whole host of [alternative input devices](http://a
 
 By the way, if you're quadriplegic and record some awesome flying footage from your drone, [Stuart](mailto:contact@robotsandcake.org) from [Robots and Cake](https://robotsandcake.org/) would like to see it!
 
-[^1]: This will probably be: __/Users/[yourusername]/Downloads__ on a Mac.
-[^2]: This is: __/Applications__ on a Mac.
+<sup>1</sup> This will probably be: __/Users/[yourusername]/Downloads__ on a Mac.
+
+<sup>2</sup> This is: __/Applications__ on a Mac.
